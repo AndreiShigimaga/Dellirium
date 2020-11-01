@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 7cca8d7f4ef3c074789acb630ef2d48e
+timeCreated: 1460650523
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - texture: {instanceID: 0}
+  - sound1: {instanceID: 0}
+  - sound2: {instanceID: 0}
+  - jump1: {fileID: 8300000, guid: f4d32dfa6078fe7459388a8d974c34f1, type: 3}
+  - jump2: {fileID: 8300000, guid: b17bf355978fdac42b33a3caa7e9f6a7, type: 3}
+  - slide1: {fileID: 8300000, guid: 1426b1dae2c695846b23ca6356cd1a51, type: 3}
+  - slide2: {fileID: 8300000, guid: 25fda98a0e1dc0e40bff2fa02659a70f, type: 3}
+  - death: {fileID: 8300000, guid: fc66b02512d55a54db9f0d15f97d9f7f, type: 3}
+  - groundcheck: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

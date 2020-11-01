@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{37026DBB-6443-4C2E-1E96-E4BE27712910}") = "Step2_AddingAnimation", "Assembly-CSharp.csproj", "{CA41F0EE-6F4A-EB26-44E1-DA1DD3F80B29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA41F0EE-6F4A-EB26-44E1-DA1DD3F80B29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA41F0EE-6F4A-EB26-44E1-DA1DD3F80B29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA41F0EE-6F4A-EB26-44E1-DA1DD3F80B29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA41F0EE-6F4A-EB26-44E1-DA1DD3F80B29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

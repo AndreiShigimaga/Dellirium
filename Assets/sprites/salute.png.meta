@@ -1,0 +1,485 @@
+fileFormatVersion: 2
+guid: d26d7c15f6a141744a3f810311e473fe
+timeCreated: 1463042980
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: salute_0
+    21300002: salute_1
+    21300004: salute_2
+    21300006: salute_3
+    21300008: salute_4
+    21300010: salute_5
+    21300012: salute_6
+    21300014: salute_7
+    21300016: salute_8
+    21300018: salute_9
+    21300020: salute_10
+    21300022: salute_11
+    21300024: salute_12
+    21300026: salute_13
+    21300028: salute_14
+    21300030: salute_15
+    21300032: salute_16
+    21300034: salute_17
+    21300036: salute_18
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: salute_0
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 4}
+        - {x: -23, y: -2}
+        - {x: -23, y: -13}
+        - {x: -22, y: -19}
+        - {x: -19, y: -24}
+        - {x: -3, y: -24}
+        - {x: 6, y: -20}
+        - {x: 6, y: -6}
+        - {x: -2, y: 4}
+    - name: salute_1
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 9}
+        - {x: -22, y: 9}
+        - {x: -29, y: 1}
+        - {x: -29, y: -19}
+        - {x: -23, y: -29}
+        - {x: 5, y: -29}
+        - {x: 12, y: -13}
+        - {x: 12, y: -1}
+        - {x: 6, y: 6}
+    - name: salute_2
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 12}
+        - {x: -25, y: 12}
+        - {x: -33, y: 5}
+        - {x: -33, y: -21}
+        - {x: -29, y: -32}
+        - {x: -25, y: -34}
+        - {x: 4, y: -34}
+        - {x: 16, y: -22}
+        - {x: 16, y: 2}
+        - {x: 10, y: 10}
+    - name: salute_3
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 16}
+        - {x: -38, y: 3}
+        - {x: -38, y: -30}
+        - {x: -21, y: -38}
+        - {x: 12, y: -38}
+        - {x: 21, y: -34}
+        - {x: 21, y: 16}
+      - - {x: 36, y: 38}
+        - {x: 29, y: 30}
+        - {x: 29, y: 16}
+        - {x: 38, y: 10}
+        - {x: 50, y: 10}
+        - {x: 55, y: 12}
+        - {x: 58, y: 19}
+        - {x: 58, y: 30}
+        - {x: 51, y: 38}
+    - name: salute_4
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: 8}
+        - {x: -41, y: -32}
+        - {x: -30, y: -41}
+        - {x: -23, y: -43}
+        - {x: 5, y: -43}
+        - {x: 25, y: -35}
+        - {x: 25, y: 1}
+        - {x: 24, y: 12}
+        - {x: 10, y: 18}
+        - {x: -28, y: 18}
+        - {x: -40, y: 14}
+      - - {x: 34, y: 42}
+        - {x: 24, y: 37}
+        - {x: 24, y: 12}
+        - {x: 35, y: 4}
+        - {x: 54, y: 4}
+        - {x: 64, y: 20}
+        - {x: 64, y: 33}
+        - {x: 58, y: 42}
+    - name: salute_5
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45, y: -23}
+        - {x: -35, y: -47}
+        - {x: 10, y: -47}
+        - {x: 28, y: -31}
+        - {x: 28, y: 21}
+        - {x: -41, y: 21}
+        - {x: -45, y: 12}
+      - - {x: 27, y: 46}
+        - {x: 19, y: 36}
+        - {x: 19, y: 10}
+        - {x: 28, y: 1}
+        - {x: 39, y: 0}
+        - {x: 57, y: 0}
+        - {x: 69, y: 13}
+        - {x: 69, y: 43}
+        - {x: 60, y: 46}
+      - - {x: -32, y: 47}
+        - {x: -50, y: 47}
+        - {x: -56, y: 39}
+        - {x: -56, y: 24}
+        - {x: -46, y: 19}
+        - {x: -34, y: 19}
+        - {x: -27, y: 24}
+        - {x: -27, y: 46}
+    - name: salute_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57, y: 51}
+        - {x: -62, y: 49}
+        - {x: -62, y: -5}
+        - {x: -55, y: -43}
+        - {x: -32, y: -50}
+        - {x: 27, y: -50}
+        - {x: 73, y: -1}
+        - {x: 73, y: 33}
+        - {x: 65, y: 51}
+    - name: salute_7
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67, y: 55}
+        - {x: -66, y: 55}
+        - {x: -66, y: -2}
+        - {x: -51, y: -43}
+        - {x: -32, y: -54}
+        - {x: 21, y: -54}
+        - {x: 72, y: -19}
+        - {x: 77, y: -2}
+        - {x: 77, y: 40}
+    - name: salute_8
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71, y: 58}
+        - {x: -71, y: -24}
+        - {x: -63, y: -51}
+        - {x: -39, y: -57}
+        - {x: 42, y: -57}
+        - {x: 81, y: 0}
+        - {x: 81, y: 58}
+    - name: salute_9
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 62}
+        - {x: -75, y: -46}
+        - {x: -56, y: -61}
+        - {x: 13, y: -61}
+        - {x: 84, y: -19}
+        - {x: 84, y: 38}
+        - {x: 56, y: 62}
+    - name: salute_10
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -79, y: 64}
+        - {x: -79, y: -5}
+        - {x: -69, y: -60}
+        - {x: -58, y: -64}
+        - {x: 19, y: -64}
+        - {x: 87, y: -17}
+        - {x: 87, y: 41}
+        - {x: 79, y: 64}
+    - name: salute_11
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -82, y: 66}
+        - {x: -82, y: -20}
+        - {x: -54, y: -67}
+        - {x: 26, y: -67}
+        - {x: 86, y: -28}
+        - {x: 90, y: -10}
+        - {x: 90, y: 44}
+        - {x: 81, y: 66}
+    - name: salute_12
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 68}
+        - {x: -84, y: 60}
+        - {x: -84, y: -51}
+        - {x: -81, y: -62}
+        - {x: -55, y: -67}
+        - {x: 37, y: -67}
+        - {x: 92, y: -22}
+        - {x: 92, y: 61}
+        - {x: 64, y: 68}
+    - name: salute_13
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -78, y: 69}
+        - {x: -88, y: 61}
+        - {x: -88, y: -5}
+        - {x: -58, y: -66}
+        - {x: 54, y: -66}
+        - {x: 95, y: -2}
+        - {x: 95, y: 52}
+        - {x: 76, y: 69}
+    - name: salute_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 71}
+        - {x: -90, y: 71}
+        - {x: -90, y: -11}
+        - {x: -70, y: -9}
+        - {x: -67, y: -10}
+        - {x: -68, y: -9}
+        - {x: -67, y: -16}
+        - {x: -67, y: -27}
+        - {x: -61, y: -66}
+        - {x: 35, y: -66}
+        - {x: 97, y: -37}
+        - {x: 97, y: 60}
+        - {x: 21, y: 70}
+    - name: salute_15
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: 72}
+        - {x: -78, y: 72}
+        - {x: -92, y: 51}
+        - {x: -92, y: -21}
+        - {x: -65, y: -66}
+        - {x: 47, y: -66}
+        - {x: 99, y: -13}
+        - {x: 99, y: 48}
+        - {x: 67, y: 66}
+    - name: salute_16
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46, y: 73}
+        - {x: -68, y: 73}
+        - {x: -95, y: 56}
+        - {x: -95, y: -18}
+        - {x: -75, y: -66}
+        - {x: 51, y: -66}
+        - {x: 100, y: -11}
+        - {x: 100, y: 52}
+        - {x: 99, y: 55}
+    - name: salute_17
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: 74}
+        - {x: -97, y: 42}
+        - {x: -97, y: -13}
+        - {x: -68, y: -66}
+        - {x: 49, y: -66}
+        - {x: 55, y: -58}
+        - {x: 55, y: 1}
+        - {x: 6, y: 74}
+    - name: salute_18
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -92, y: 74}
+        - {x: -99, y: 61}
+        - {x: -99, y: -11}
+        - {x: -68, y: -57}
+        - {x: -59, y: -66}
+        - {x: 45, y: -66}
+        - {x: 57, y: -43}
+        - {x: 57, y: 31}
+        - {x: -14, y: 74}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
